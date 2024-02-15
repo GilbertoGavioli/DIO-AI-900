@@ -1,21 +1,20 @@
-Criei um Resource group
-Logo apos criei um Create Azure AI services
-Depois acessei o Studio do azure no link gerado(https://ml.azure.com?tid=24787ffc-c55f-40f7-9830-87ce829fa9c1&wsid=/subscriptions/4446048c-298b-4130-8d31-054a87258615/resourcegroups/az900/providers/Microsoft.MachineLearningServices/workspaces/Lab01)
-Selecionei ML automatizado
-Criei um Trabalho de treinamento aluguel-bicicletas 
-SElecionei a tag Regressão
-importei a url https://aka.ms/bike-rentals
-coloquei as tags abaixo com os valores
-Limits: Expand this section
-Max trials: 3
-Max concurrent trials: 3
-Max nodes: 3
-Metric score: 0.85 
-Timeout: 15
-Iteration timeout: 5
-SElecionei o modelo e implantei um serviço WEB
-Entrei 
-selecionei a aba teste
+•	Criei um Resource group
+•	Logo apos criei um Create Azure AI services
+•	Depois acessei o Studio do azure no link gerado(https://ml.azure.com?tid=24787ffc-c55f-40f7-9830-87ce829fa9c1&wsid=/subscriptions/4446048c-298b-4130-8d31-054a87258615/resourcegroups/az900/providers/Microsoft.MachineLearningServices/workspaces/Lab01)
+•	Selecionei ML automatizado
+•	Criei um Trabalho de treinamento aluguel-bicicletas 
+•	SElecionei a tag Regressão
+•	importei a url https://aka.ms/bike-rentals
+•	coloquei as tags abaixo com os valores
+•	Limits: Expand this section
+•	Max trials: 3
+•	Max concurrent trials: 3
+•	Max nodes: 3
+•	Metric score: 0.85 
+•	Timeout: 15
+•	Iteration timeout: 5
+•	SElecionei o modelo e implantei um serviço WEB
+•	selecionei a aba teste
 e inseri os dados 
 {
    "Inputs": { 
@@ -38,3 +37,4 @@ e inseri os dados
    },   
    "GlobalParameters": 1.0
  }
+![image](https://github.com/GilbertoGavioli/DIO-AI-900/assets/12461540/7af025b4-555f-4ff6-815b-ad8659001460)
